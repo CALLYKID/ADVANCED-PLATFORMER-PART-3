@@ -1,5 +1,6 @@
 
 🎮 Advanced Platformer — Part 3
+<img width="1132" height="861" alt="image" src="https://github.com/user-attachments/assets/68309721-03d3-4e7d-b194-7b9d7b78603c" />
 
 Welcome to Advanced Platformer (Part 3), a fast-paced Scratch platformer packed with new levels, enemies, collectibles, and visual upgrades!
 
